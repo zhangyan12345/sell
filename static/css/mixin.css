@@ -1,0 +1,28 @@
+@media (-webkit-min-device-pixel-ratio:1.5),(-webkit-min-device-pixel-ratio:1.5) {
+    .border_bo:after{
+		transform: scaleY(0.7);
+		-webkit-transform: scaleY(0.7);
+    }
+    .text_bo:after{
+		transform: scaleY(0.7);
+		-webkit-transform: scaleY(0.7);
+    }
+    .food-item:after{
+		transform: scaleY(0.7);
+		-webkit-transform: scaleY(0.7);
+    }
+}
+@media (-webkit-min-device-pixel-ratio:2),(-webkit-min-device-pixel-ratio:2) {
+    .border_bo:after{
+		transform: scaleY(0.5);
+		-webkit-transform: scaleY(0.5);
+    }
+    .text_bo:after{
+		transform: scaleY(0.5);
+		-webkit-transform: scaleY(0.5);
+    }
+    .food-item:after{
+		transform: scaleY(0.5);
+		-webkit-transform: scaleY(0.5);
+    }
+}
